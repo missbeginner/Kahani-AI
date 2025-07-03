@@ -24,8 +24,8 @@ To run this application locally, follow these steps:
   Clone the repository (or save the code):
     If you have the code in a file (e.g., app.py), save it. If it's part of a Git repository, clone it:
 
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/missbeginner/Kahani-AI.git
+    cd https://github.com/missbeginner/Kahani-AI.git
 
   Create a virtual environment (recommended):
 
